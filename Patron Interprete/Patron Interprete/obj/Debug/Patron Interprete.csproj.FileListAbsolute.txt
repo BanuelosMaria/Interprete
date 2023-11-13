@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron Interprete\Patron Interprete\obj\Debug\Patron Interprete.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron Interprete\Patron Interprete\obj\Debug\Patron Interprete.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron Interprete\Patron Interprete\bin\Debug\Patron Interprete.exe.config
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron Interprete\Patron Interprete\bin\Debug\Patron Interprete.exe
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron Interprete\Patron Interprete\bin\Debug\Patron Interprete.pdb
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron Interprete\Patron Interprete\obj\Debug\Patron Interprete.exe
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\Patron Interprete\Patron Interprete\obj\Debug\Patron Interprete.pdb
