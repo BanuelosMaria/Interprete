@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\InterpreteEjercicio\InterpreteEjercicio\bin\Debug\InterpreteEjercicio.exe.config
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\InterpreteEjercicio\InterpreteEjercicio\bin\Debug\InterpreteEjercicio.exe
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\InterpreteEjercicio\InterpreteEjercicio\bin\Debug\InterpreteEjercicio.pdb
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\InterpreteEjercicio\InterpreteEjercicio\obj\Debug\InterpreteEjercicio.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\InterpreteEjercicio\InterpreteEjercicio\obj\Debug\InterpreteEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\InterpreteEjercicio\InterpreteEjercicio\obj\Debug\InterpreteEjercicio.exe
+C:\Users\1\Desktop\Tareas\9no semestre\Patrones de diseño\Patrones\InterpreteEjercicio\InterpreteEjercicio\obj\Debug\InterpreteEjercicio.pdb
